@@ -1,3 +1,4 @@
-Hi I have created this file  to get knowlwge of merge conflicts in git
 
-Hi i am doing changes in remote repo.
+Hi I am himani Garg . Hi i am doing changes in remote repo.
+
+
