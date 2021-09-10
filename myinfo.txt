@@ -1,1 +1,1 @@
-Hi I have created this file  to get knowlwge of merge conflicts in git
+Hi I am himani Garg .I have created this file  to get knowlwge of merge conflicts in git
